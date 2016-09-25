@@ -1,3 +1,9 @@
+
+![](https://github.com/karotkin/puppet/blob/master/screens/01.PNG)
+![](https://github.com/karotkin/puppet/blob/master/screens/02.PNG)
+![](https://github.com/karotkin/puppet/blob/master/screens/1.PNG)
+![](https://github.com/karotkin/puppet/blob/master/screens/2.PNG)
+
 # This is repo for final task 
 ## Final task
 Provide single puppet module which can setup both puppet master and puppet agent current version from repositories which provided by puppetlabs for example - you delivery plan can be following:
